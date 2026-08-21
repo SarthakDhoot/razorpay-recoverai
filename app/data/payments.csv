@@ -1,0 +1,16 @@
+payment_id,customer_name,customer_email,amount,currency,status,failure_reason,payment_method,created_at,recovery_status
+PAY001,Rahul Sharma,rahul@example.com,4999,INR,Failed,Card Declined,Credit Card,2026-08-01,Pending
+PAY002,Priya Patel,priya@example.com,1299,INR,Failed,Insufficient Funds,Debit Card,2026-08-02,Pending
+PAY003,Amit Shah,amit@example.com,7999,INR,Success,,UPI,2026-08-03,Not Required
+PAY004,Neha Verma,neha@example.com,2499,INR,Failed,Bank Timeout,Net Banking,2026-08-04,Pending
+PAY005,Rohan Mehta,rohan@example.com,15999,INR,Failed,Card Declined,Credit Card,2026-08-05,Contacted
+PAY006,Anjali Singh,anjali@example.com,3499,INR,Success,,UPI,2026-08-05,Not Required
+PAY007,Vikram Joshi,vikram@example.com,8999,INR,Failed,Insufficient Funds,Debit Card,2026-08-06,Recovered
+PAY008,Kavya Nair,kavya@example.com,1999,INR,Failed,Payment Gateway Timeout,UPI,2026-08-07,Pending
+PAY009,Arjun Rao,arjun@example.com,12999,INR,Success,,Credit Card,2026-08-08,Not Required
+PAY010,Simran Kaur,simran@example.com,5999,INR,Failed,Card Expired,Credit Card,2026-08-09,Pending
+PAY011,Karan Malhotra,karan@example.com,7499,INR,Failed,Bank Timeout,Net Banking,2026-08-10,Contacted
+PAY012,Pooja Desai,pooja@example.com,2999,INR,Success,,UPI,2026-08-10,Not Required
+PAY013,Dev Mehta,dev@example.com,10999,INR,Failed,Card Declined,Credit Card,2026-08-11,Recovered
+PAY014,Isha Kapoor,isha@example.com,4499,INR,Failed,Insufficient Funds,Debit Card,2026-08-12,Pending
+PAY015,Manish Gupta,manish@example.com,6999,INR,Success,,UPI,2026-08-13,Not Required
